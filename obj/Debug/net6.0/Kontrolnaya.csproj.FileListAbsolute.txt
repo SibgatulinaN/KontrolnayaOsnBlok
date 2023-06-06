@@ -1,0 +1,15 @@
+C:\Users\mehry\Desktop\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.exe
+C:\Users\mehry\Desktop\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.deps.json
+C:\Users\mehry\Desktop\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.runtimeconfig.json
+C:\Users\mehry\Desktop\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.dll
+C:\Users\mehry\Desktop\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.pdb
+C:\Users\mehry\Desktop\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.csproj.AssemblyReference.cache
+C:\Users\mehry\Desktop\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehry\Desktop\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.AssemblyInfoInputs.cache
+C:\Users\mehry\Desktop\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.AssemblyInfo.cs
+C:\Users\mehry\Desktop\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.csproj.CoreCompileInputs.cache
+C:\Users\mehry\Desktop\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.dll
+C:\Users\mehry\Desktop\Kontrolnaya\obj\Debug\net6.0\refint\Kontrolnaya.dll
+C:\Users\mehry\Desktop\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.pdb
+C:\Users\mehry\Desktop\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.genruntimeconfig.cache
+C:\Users\mehry\Desktop\Kontrolnaya\obj\Debug\net6.0\ref\Kontrolnaya.dll
